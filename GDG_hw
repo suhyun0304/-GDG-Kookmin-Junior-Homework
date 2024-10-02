@@ -1,0 +1,6 @@
+git init
+git add GDG_hw.py
+git commit -m "first commit"
+git branch -m Main
+git remote add orgin https://github.com/suhyun0304/-GDG-Kookmin-Junior-Homework.git
+git push -u origin main
